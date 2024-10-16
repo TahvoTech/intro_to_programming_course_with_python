@@ -27,3 +27,15 @@ By the end of the course, I will have learned how to:
 
 The repository is divided into folders based on the course weeks. Each folder contains Python scripts and exercises for that week’s topics.
 
+python-course-repo/ 
+├── week1_basics/ 
+├── week2_loops/ 
+├── week3_functions/ 
+└── week4_oop/
+
+## Running the Code
+
+Each folder contains `.py` files that can be executed using Python 3.x. To run a file, navigate to the respective folder and use the following command:
+
+```bash
+python filename.py
