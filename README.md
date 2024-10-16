@@ -39,3 +39,26 @@ Each folder contains `.py` files that can be executed using Python 3.x. To run a
 
 ```bash
 python filename.py
+
+## Good Programming Practices
+
+The course emphasizes:
+
+    Writing readable and maintainable code
+    Following proper naming conventions
+    Using comments and documentation for clarity
+
+## Topics Covered
+
+    Variables and data types
+    Control structures (if, loops)
+    Functions (passing parameters, return values)
+    Lists, dictionaries, sets
+    Basic file handling
+    Object-oriented programming (classes, objects)
+    Nested data structures
+    Special methods, function parameters, tuples
+
+## License
+
+This repository is intended for educational purposes as part of the Programming 1 course.
