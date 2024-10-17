@@ -37,7 +37,6 @@ python-course-repo/
 
 Each folder contains `.py` files that can be executed using Python 3.x. To run a file, navigate to the respective folder and use the following command:
 
-```bash
 python filename.py
 
 ## Good Programming Practices
