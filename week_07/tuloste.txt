@@ -1,0 +1,26 @@
+
+name                     :      Korando        Ibiza        Focus
+monthly_fee              :          579            0            0
+insurance_year           :         1500          700          700
+km_year                  :        25000        25000        25000
+km_month                 :         2000         2000         2000
+km_week                  :          500          500          500
+consumption_per_100km    :  18kwh/100km     5l/100km     5l/100km
+kwh_or_gas_price         :         0.15            2            2
+maintenance              :          300          300          300
+consuption_eur_in_year   :       1125.0       2500.0       2500.0
+consuption_eur_in_month  :           94          208          208
+consuption_eur_in_week   :           22           48           48
+consuption_eur_per_100km :          4.5           10           10
+consuption_eur_per_150km :         6.75         15.0         15.0
+total_costs_12m          :         9873         3500         3500
+total_costs_14m          :        11518         4083         4083
+total_costs_16m          :        13164         4667         4667
+total_costs_18m          :        14810         5250         5250
+total_costs_24m          :        19746         7000         7000
+investment               :          300        11000        15000
+cashflow_after_24m       :        20000        18000        22000
+sell_car                 :            0         6000        10000
+cost_after_end/sell      :        20000        12000        11000
+factory_guarantee        :       4 year       0 year       2 year
+
