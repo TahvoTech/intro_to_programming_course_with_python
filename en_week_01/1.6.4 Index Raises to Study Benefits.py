@@ -37,7 +37,9 @@ Tehtävää tehdessäsi pohdi:
 '''
 
 benefits = float(input("Enter the amount of the study benefits: "))
-increase = 1.0117
+
+increase_percent = 1.17
+increase = increase_percent/100+1
 raised_benefits = benefits*increase
 
-print(f"If the index raise is {increase} percent, the study benefit,\nafter a raise, would be {raised_benefits} euros")
+print(f"If the index raise is {increase_percent} percent, the study benefit,\nafter a raise, would be {raised_benefits} euros\nand if there was another index raise, the study\nbenefits would be as much as {raised_benefits*increase} euros")
