@@ -6,10 +6,36 @@ student id: 151737413
 """
 
 def main():
-    pass
+
+    number = int(input("Choose a number: "))
+    limit = 100
+    reps = limit // number + 1
+    counter = 1
+
+    while counter <= reps:
+        print(f"{counter} * {number} = {counter * number}")
+        counter += 1 
+
+# OR
+
+'''
+    number = int(input("Choose a number: "))
+    sum = 0
+    counter = 1
+    limit = 100
+
+    while sum < limit:
+        print(f"{counter} * {number} = {counter * number}")
+        sum = counter * number
+        counter += 1
+
+'''
+
+
 
 if __name__ == "__main__":
     main()
+
 
 
 '''
